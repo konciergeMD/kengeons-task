@@ -11,6 +11,7 @@ pylint = "*"
 pytest-html = "*"
 pytest-cov = "*"
 pytest-timeout = "*"
+atomicwrites = "*"
 
 [requires]
 python_version = "3.8"
