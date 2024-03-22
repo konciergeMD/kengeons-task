@@ -1,17 +1,10 @@
-[[source]]
-url = 'https://pypi.python.org/simple'
-verify_ssl = true
-
-[packages]
-
 [dev-packages]
 pytest = "*"
 pylint = "*"
-"pep8" = "*"
+pep8 = "*"
 pytest-html = "*"
 pytest-cov = "*"
 pytest-timeout = "*"
-atomicwrites = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.11"
